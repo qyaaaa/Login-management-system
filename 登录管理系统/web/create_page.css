@@ -1,0 +1,12 @@
+footer{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.jumbotron {
+    background-color: #0f0f0f;
+    margin-top: 50px;
+}
+form{
+    margin: 0 auto;
+    width: 90%;
+}

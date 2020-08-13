@@ -1,0 +1,11 @@
+.panel {
+    width: 90%;
+    margin: 10px auto;
+}
+
+.panel-footer {
+    text-align: right;
+}
+body{
+    background-size: 100%;
+}

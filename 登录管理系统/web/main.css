@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: #0f0f0f;
+    margin-top: 50px;
+}
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    margin-right: 50px;
+    margin-left: 50px;
+}
+footer{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
