@@ -1,1 +1,4 @@
-# Login-management-system
+## 简单的登录管理系统
+
++ 原生的无任何框架
++ Javaweb时所写
